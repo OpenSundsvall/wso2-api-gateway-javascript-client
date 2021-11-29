@@ -1,5 +1,11 @@
 # WSO2 API Gateway Client - JavaScript / Node
 
+## Leverantör
+
+Sundsvalls kommun
+
+## Beskrivning
+
 Detta är en exempelapplikation för att visa ett flöde för att konsumera API:er via Sundsvall kommuns API-gateway. 
 
 Denna exempelapplikation konsumerar Sundsvall kommuns Incident-API, för att konsumera detta API krävs att din applikation godkänts för användande och du fått [client credentials](https://oauth.net/2/grant-types/client-credentials/). Det generalla flödet är detsamma för övriga av Sundsvall kommuns API:er.
